@@ -1,0 +1,1 @@
+The CSS property `filter: blur()` isn't working as expected on a specific element.  The blur effect is either not applied at all or is only partially applied, despite having the correct syntax and no apparent conflicts with other styles.
